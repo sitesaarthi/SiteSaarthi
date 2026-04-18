@@ -1,0 +1,112 @@
+{
+  "@@locale": "hi",
+
+  "appTitle": "साइटसारथी",
+
+  "dashboard": "डैशबोर्ड",
+  "projects": "प्रोजेक्ट्स",
+  "projectDetails": "प्रोजेक्ट विवरण",
+  "projectName": "प्रोजेक्ट नाम",
+  "siteLocation": "साइट स्थान",
+
+  "latitude": "अक्षांश",
+  "longitude": "देशांतर",
+  "radius": "रेडियस (मीटर)",
+  "map": "मानचित्र",
+
+  "upload": "अपलोड करें",
+  "uploadDpr": "डीपीआर अपलोड करें",
+  "download": "डाउनलोड करें",
+  "view": "देखें",
+
+  "save": "सेव करें",
+  "cancel": "रद्द करें",
+  "submit": "जमा करें",
+  "edit": "संपादित करें",
+  "delete": "हटाएं",
+
+  "approve": "मंजूर करें",
+  "reject": "अस्वीकार करें",
+  "pending": "लंबित",
+  "approved": "मंजूर",
+  "rejected": "अस्वीकृत",
+
+  "owner": "मालिक",
+  "engineer": "इंजीनियर",
+  "client": "क्लाइंट",
+
+  "chat": "चैट",
+  "message": "संदेश",
+  "send": "भेजें",
+
+  "settings": "सेटिंग्स",
+  "language": "भाषा",
+  "profile": "प्रोफाइल",
+  "logout": "लॉगआउट",
+
+  "search": "खोजें",
+  "filter": "फ़िल्टर",
+
+  "loading": "लोड हो रहा है...",
+  "noData": "कोई डेटा नहीं मिला",
+  "errorOccurred": "कुछ गलत हो गया",
+  "retry": "फिर से प्रयास करें",
+
+  "yes": "हाँ",
+  "no": "नहीं",
+  "confirm": "पुष्टि करें",
+
+  "permissionRequired": "अनुमति आवश्यक है",
+  "permissionDenied": "अनुमति अस्वीकार की गई",
+  "locationPermission": "लोकेशन अनुमति",
+  "enableLocation": "लोकेशन सेवाएं चालू करें",
+
+  "gpsDisabled": "जीपीएस बंद है",
+  "fetchingLocation": "लोकेशन प्राप्त की जा रही है",
+  "locationOutOfRadius": "आप अनुमत क्षेत्र से बाहर हैं",
+  "locationWithinRadius": "आप अनुमत क्षेत्र के भीतर हैं",
+
+  "internetRequired": "इंटरनेट कनेक्शन आवश्यक है",
+  "noInternet": "इंटरनेट कनेक्शन नहीं है",
+  "tryAgainLater": "कृपया बाद में पुनः प्रयास करें",
+
+  "uploading": "अपलोड हो रहा है...",
+  "uploadSuccess": "अपलोड सफल हुआ",
+  "uploadFailed": "अपलोड विफल हुआ",
+
+  "fileTooLarge": "फ़ाइल का आकार बहुत बड़ा है",
+  "invalidFileType": "अमान्य फ़ाइल प्रकार",
+
+  "accessDenied": "पहुंच अस्वीकृत",
+  "accessGranted": "पहुंच प्रदान की गई",
+
+  "engineerNotAssigned": "इंजीनियर असाइन नहीं किया गया है",
+  "waitingForApproval": "अनुमोदन की प्रतीक्षा में",
+
+  "confirmDelete": "क्या आप वाकई हटाना चाहते हैं?",
+  "confirmLogout": "क्या आप वाकई लॉगआउट करना चाहते हैं?",
+
+  "yesProceed": "हाँ, आगे बढ़ें",
+  "cancelAction": "कार्रवाई रद्द करें",
+
+  "dataUpdated": "डेटा सफलतापूर्वक अपडेट किया गया",
+  "somethingWentWrong": "कुछ गलत हो गया। कृपया पुनः प्रयास करें",
+
+  "dashboardSubtitle": "सभी प्रोजेक्ट्स और गतिविधियों को एक जगह देखें।",
+"dashboardLoadFailed": "डैशबोर्ड लोड नहीं हो सका",
+
+"projectsNeedAttention": "प्रोजेक्ट्स पर ध्यान आवश्यक है",
+"teamNotComplete": "टीम पूरी नहीं है (इंजीनियर/क्लाइंट अनुपस्थित)",
+"allProjectsOnTrack": "सभी प्रोजेक्ट्स सही स्थिति में हैं",
+"noPendingActions": "कोई लंबित कार्रवाई नहीं है",
+
+"activeProjects": "सक्रिय प्रोजेक्ट्स",
+"onTrack": "सही स्थिति में",
+"needAttention": "ध्यान आवश्यक",
+"pendingRequests": "लंबित अनुरोध",
+
+"viewAll": "सभी देखें →",
+"noProjectsFound": "कोई प्रोजेक्ट नहीं मिला",
+"attention": "ध्यान दें"
+
+}

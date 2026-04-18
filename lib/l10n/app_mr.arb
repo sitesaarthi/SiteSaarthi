@@ -1,0 +1,113 @@
+{
+  "@@locale": "mr",
+
+  "appTitle": "साइटसारथी",
+
+  "dashboard": "डॅशबोर्ड",
+  "projects": "प्रकल्प",
+  "projectDetails": "प्रकल्प तपशील",
+  "projectName": "प्रकल्प नाव",
+  "siteLocation": "साइट स्थान",
+
+  "latitude": "अक्षांश",
+  "longitude": "रेखांश",
+  "radius": "त्रिज्या (मीटर)",
+  "map": "नकाशा",
+
+  "upload": "अपलोड करा",
+  "uploadDpr": "डीपीआर अपलोड करा",
+  "download": "डाउनलोड करा",
+  "view": "पहा",
+
+  "save": "जतन करा",
+  "cancel": "रद्द करा",
+  "submit": "सबमिट करा",
+  "edit": "संपादित करा",
+  "delete": "हटवा",
+
+  "approve": "मंजूर करा",
+  "reject": "नाकार करा",
+  "pending": "प्रलंबित",
+  "approved": "मंजूर",
+  "rejected": "नाकारले",
+
+  "owner": "मालक",
+  "engineer": "अभियंता",
+  "client": "ग्राहक",
+
+  "chat": "चॅट",
+  "message": "संदेश",
+  "send": "पाठवा",
+
+  "settings": "सेटिंग्ज",
+  "language": "भाषा",
+  "profile": "प्रोफाइल",
+  "logout": "लॉगआउट",
+
+  "search": "शोधा",
+  "filter": "फिल्टर",
+
+  "loading": "लोड होत आहे...",
+  "noData": "डेटा आढळला नाही",
+  "errorOccurred": "काहीतरी चूक झाली",
+  "retry": "पुन्हा प्रयत्न करा",
+
+  "yes": "होय",
+  "no": "नाही",
+  "confirm": "पुष्टी करा",
+
+
+  "permissionRequired": "परवानगी आवश्यक आहे",
+  "permissionDenied": "परवानगी नाकारली",
+  "locationPermission": "स्थान परवानगी",
+  "enableLocation": "स्थान सेवा सुरू करा",
+
+  "gpsDisabled": "जीपीएस बंद आहे",
+  "fetchingLocation": "स्थान मिळवत आहे",
+  "locationOutOfRadius": "आपण अनुमत क्षेत्राबाहेर आहात",
+  "locationWithinRadius": "आपण अनुमत क्षेत्रात आहात",
+
+  "internetRequired": "इंटरनेट कनेक्शन आवश्यक आहे",
+  "noInternet": "इंटरनेट कनेक्शन नाही",
+  "tryAgainLater": "कृपया नंतर पुन्हा प्रयत्न करा",
+
+  "uploading": "अपलोड होत आहे...",
+  "uploadSuccess": "अपलोड यशस्वी झाले",
+  "uploadFailed": "अपलोड अयशस्वी झाले",
+
+  "fileTooLarge": "फाईलचा आकार खूप मोठा आहे",
+  "invalidFileType": "अवैध फाईल प्रकार",
+
+  "accessDenied": "प्रवेश नाकारला",
+  "accessGranted": "प्रवेश मंजूर",
+
+  "engineerNotAssigned": "अभियंता नियुक्त केलेला नाही",
+  "waitingForApproval": "मंजुरीची प्रतीक्षा",
+
+  "confirmDelete": "आपण खात्रीपूर्वक हटवू इच्छिता?",
+  "confirmLogout": "आपण खात्रीपूर्वक लॉगआउट करू इच्छिता?",
+
+  "yesProceed": "होय, पुढे जा",
+  "cancelAction": "कारवाई रद्द करा",
+
+  "dataUpdated": "डेटा यशस्वीरित्या अद्यतनित झाला",
+  "somethingWentWrong": "काहीतरी चूक झाली. कृपया पुन्हा प्रयत्न करा",
+
+  "dashboardSubtitle": "सर्व प्रकल्प आणि क्रियाकलाप एका ठिकाणी पाहा.",
+"dashboardLoadFailed": "डॅशबोर्ड लोड होऊ शकला नाही",
+
+"projectsNeedAttention": "प्रकल्पांना लक्ष आवश्यक आहे",
+"teamNotComplete": "संघ अपूर्ण आहे (अभियंता/ग्राहक अनुपस्थित)",
+"allProjectsOnTrack": "सर्व प्रकल्प योग्य मार्गावर आहेत",
+"noPendingActions": "सध्या कोणतीही प्रलंबित कारवाई नाही",
+
+"activeProjects": "सक्रिय प्रकल्प",
+"onTrack": "योग्य मार्गावर",
+"needAttention": "लक्ष आवश्यक",
+"pendingRequests": "प्रलंबित विनंत्या",
+
+"viewAll": "सर्व पहा →",
+"noProjectsFound": "कोणताही प्रकल्प आढळला नाही",
+"attention": "लक्ष द्या"
+
+}
