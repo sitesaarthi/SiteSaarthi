@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "485290939137",
+    "project_id": "sitesaarthi-c4775",
+    "storage_bucket": "sitesaarthi-c4775.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485290939137:android:66fddc12fad44409ef0100",
+        "android_client_info": {
+          "package_name": "com.example.sitesaarthi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOdDlgRux-fN4shIrrBj0AmMcGyA1qAOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

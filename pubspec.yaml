@@ -1,0 +1,68 @@
+name: sitesaarthi
+description: A new Flutter project.
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  shared_preferences: ^2.5.4
+  lucide_icons_flutter: ^1.2.6
+  google_fonts: ^6.2.1
+  package_info_plus: ^8.0.2
+  go_router: ^14.6.2
+  intl: ^0.20.2
+  image_picker: ^1.0.7
+  pdf: ^3.10.7
+  printing: ^5.11.0
+  geolocator: ^11.0.0
+  connectivity_plus: ^5.0.2
+  http: ^1.6.0
+  google_maps_flutter: ^2.6.0
+  url_launcher: ^6.3.0
+  file_picker: ^8.0.0
+  syncfusion_flutter_pdfviewer: ^32.1.24
+  path: ^1.9.0
+  pdfx: ^2.9.2
+  path_provider: ^2.1.2
+  http_parser: ^4.0.2
+  model_viewer_plus: ^1.7.2
+  mobile_scanner: ^5.0.2
+  flutter_tts: ^3.8.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.13.1   # ✅ ADD THIS
+
+flutter:
+  generate: true
+  uses-material-design: true
+  assets:
+    - assets/SiteSaarthiLogo.png
+    - assets/assistant.png
+    - assets/2d/image1.jpeg
+    - assets/2d/image2.jpeg
+    - assets/2d/image3.jpeg
+    - assets/2d/image4.jpeg
+    - assets/2d/image5.jpeg
+    - assets/2d/image6.jpeg
+    - assets/3d/model.glb
+    - assets/3d/model2.glb
+    - assets/reports/weekly.pdf
+    - assets/reports/qpr.pdf
+
+
+# ✅ MUST be OUTSIDE flutter:
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/SiteSaarthiLogo.png"
